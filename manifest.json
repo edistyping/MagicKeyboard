@@ -1,0 +1,12 @@
+{
+    "name": "Magic Keyboard",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "An extension to help with typing without clicking",
+    "icons": {
+        "128": "icons/logo128x128.png"
+    },
+    "action": {
+        "default_popup": "popup/popup.html"
+    }
+}
